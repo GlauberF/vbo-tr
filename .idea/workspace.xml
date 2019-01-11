@@ -13,14 +13,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../vimbotour/bower.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="460">
+              <caret line="20" selection-start-line="20" selection-end-line="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../vimbotour/src/vimbotour.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="137">
+              <caret line="338" lean-forward="true" selection-end-line="1046" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../vimbotour/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="200">
-                <caret line="87" lean-forward="true" selection-start-line="87" selection-end-line="87" />
-              </first_editor>
-              <second_editor />
+        <entry file="file://$PROJECT_DIR$/../vimbotour/src/vimbotour.min.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="129481" lean-forward="true" selection-start-column="129481" selection-end-column="129481" />
             </state>
           </provider>
         </entry>
@@ -44,6 +59,9 @@
         <option value="$PROJECT_DIR$/../vimbotour/src/vimbotour.css" />
         <option value="$PROJECT_DIR$/../vimbotour/src/vimbotour.js" />
         <option value="$PROJECT_DIR$/../vimbotour/README.md" />
+        <option value="$PROJECT_DIR$/../vimbotour/bkp_bw.json" />
+        <option value="$PROJECT_DIR$/../vimbotour/bower.json" />
+        <option value="$PROJECT_DIR$/../vimbotour/src/vimbotour.min.js" />
       </list>
     </option>
   </component>
@@ -111,12 +129,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1547211803488</updated>
-      <workItem from="1547211805157" duration="1269000" />
+      <workItem from="1547211805157" duration="1816000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1269000" />
+    <option name="totallyTimeSpent" value="1816000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-1" width="2560" height="1081" extended-state="6" />
@@ -176,25 +194,41 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/../vimbotour/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="1465">
+            <caret line="88" lean-forward="true" selection-start-line="88" selection-end-line="88" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/../vimbotour/bkp_bw.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-36" />
+        <state relative-caret-position="539">
+          <caret line="31" column="2" selection-start-line="31" selection-start-column="2" selection-end-line="31" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../vimbotour/bower.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../vimbotour/src/vimbotour.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="183">
-          <caret line="340" column="92" lean-forward="true" selection-start-line="340" selection-start-column="92" selection-end-line="340" selection-end-column="92" />
+        <state relative-caret-position="137">
+          <caret line="338" lean-forward="true" selection-end-line="1046" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../vimbotour/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="200">
-            <caret line="87" lean-forward="true" selection-start-line="87" selection-end-line="87" />
-          </first_editor>
-          <second_editor />
+    <entry file="file://$PROJECT_DIR$/../vimbotour/src/vimbotour.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="129481" lean-forward="true" selection-start-column="129481" selection-end-column="129481" />
         </state>
       </provider>
     </entry>
